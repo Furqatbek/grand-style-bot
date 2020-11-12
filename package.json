@@ -1,0 +1,23 @@
+{
+  "name": "grandstyleboburbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indexbot.js",
+  "scripts": {
+    "start": "nodemon indexbot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'grandStyleBoburBot"
+  },
+  "author": "Saidamatov Furqat",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
